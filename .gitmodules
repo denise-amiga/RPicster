@@ -1,0 +1,18 @@
+[submodule "godot-advanced-trails-examples"]
+	path = godot-advanced-trails-examples
+	url = git@github.com:rpicster/godot-advanced-trails-examples.git
+[submodule "godot-rope-tutorial"]
+	path = godot-rope-tutorial
+	url = git@github.com:rpicster/godot-rope-tutorial.git
+[submodule "godot-particle-and-vfx-textures"]
+	path = godot-particle-and-vfx-textures
+	url = git@github.com:rpicster/godot-particle-and-vfx-textures.git
+[submodule "godot-trello-reporting-tool"]
+	path = godot-trello-reporting-tool
+	url = git@github.com:rpicster/godot-trello-reporting-tool.git
+[submodule "godot-smartshape2d-example"]
+	path = godot-smartshape2d-example
+	url = git@github.com:rpicster/godot-smartshape2d-example.git
+[submodule "godot-collected-thingies"]
+	path = godot-collected-thingies
+	url = git@github.com:rpicster/godot-collected-thingies.git
